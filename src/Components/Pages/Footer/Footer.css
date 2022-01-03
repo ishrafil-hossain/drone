@@ -1,0 +1,20 @@
+.footer-main{
+    background-color: black;
+    height: 300px;
+}
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    color: whitesmoke;
+}
+.footerImg{
+    width: 200px;
+    height: 200px;
+}
+small{
+    color: rgb(180, 180, 195);
+}
+#button-addon2{
+    background-color: aquamarine;
+    padding: 10px;
+}

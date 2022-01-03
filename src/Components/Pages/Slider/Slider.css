@@ -1,0 +1,23 @@
+.home_slider{
+    /* background-color: rgb(15, 15, 15); */
+}
+/* .home_slider img{
+    height: 100vh;
+} */
+.caption{
+    margin-top: -220px;
+}
+.wave-effects{
+    animation: 4s linear infinite backwards;
+    animation-duration: 4s;
+    animation-timing-function: linear;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: backwards;
+    animation-play-state: running;
+}
+.mainBtn{
+    background: rgb(172,139,195);
+background: linear-gradient(90deg, rgba(172,139,195,1) 0%, rgba(221,72,94,1) 44%, rgba(253,29,29,1) 51%, rgba(253,86,45,1) 70%, rgba(252,176,69,1) 100%);
+}
